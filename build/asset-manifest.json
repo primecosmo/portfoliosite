@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83778be8.css",
+    "main.js": "/static/js/main.21ebe632.js",
+    "static/js/453.e9e7ec89.chunk.js": "/static/js/453.e9e7ec89.chunk.js",
+    "static/media/about.jpg": "/static/media/about.8c45a51ebc4a9e23c15b.jpg",
+    "static/media/Astra.png": "/static/media/Astra.465735eadc225bca25da.png",
+    "static/media/m2.PNG": "/static/media/m2.1b19f3e3e39811c003b8.PNG",
+    "static/media/w2.PNG": "/static/media/w2.e0f3c83273f1a1773804.PNG",
+    "static/media/w1.PNG": "/static/media/w1.2f513a0eb2eec5cc0ef3.PNG",
+    "static/media/m1.PNG": "/static/media/m1.b4551a6cc5007b3e431b.PNG",
+    "static/media/logoo.png": "/static/media/logoo.d74c97e10c7ffeafb712.png",
+    "index.html": "/index.html",
+    "main.83778be8.css.map": "/static/css/main.83778be8.css.map",
+    "main.21ebe632.js.map": "/static/js/main.21ebe632.js.map",
+    "453.e9e7ec89.chunk.js.map": "/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83778be8.css",
+    "static/js/main.21ebe632.js"
+  ]
+}
